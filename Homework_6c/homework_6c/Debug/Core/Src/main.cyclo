@@ -1,0 +1,13 @@
+../Core/Src/main.c:89:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:96:6:askAccelerometerData	1
+../Core/Src/main.c:110:6:HAL_I2C_MasterRxCpltCallback	2
+../Core/Src/main.c:118:6:convertAndPrintAccelerometerData	1
+../Core/Src/main.c:133:6:initAccelerometer	3
+../Core/Src/main.c:175:5:main	1
+../Core/Src/main.c:223:6:SystemClock_Config	3
+../Core/Src/main.c:270:13:MX_I2C1_Init	2
+../Core/Src/main.c:304:13:MX_TIM2_Init	4
+../Core/Src/main.c:349:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:380:13:MX_DMA_Init	1
+../Core/Src/main.c:401:13:MX_GPIO_Init	1
+../Core/Src/main.c:441:6:Error_Handler	1
