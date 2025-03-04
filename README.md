@@ -11,10 +11,10 @@ Collaborators:
 
 # Project topics
 
-- Homework 1a: Turn on a LED by clapping your hands
-- Homework 1b: Have a LED blinking at 1 Hz frequency
-- Homework 2a: Play a song on a speaker by updating the autoreload register and the pulse of the speaker (with HAL_delay())
-- Homework 2b: Play a song (without HAL_delay())
+<!--- Homework 1a: Turn on a LED by clapping your hands-->
+<!---- Homework 1b: Have a LED blinking at 1 Hz frequency-->
+<!---- Homework 2a: Play a song on a speaker by updating the autoreload register and the pulse of the speaker (with HAL_delay())-->
+<!---- Homework 2b: Play a song (without HAL_delay())-->
 - Homework 3a: Use USART to transmit data to pc
 - Homework 3b: Display names on LCD
 - Homework 4a: Acquire potentiometer voltage and send it via UART
